@@ -1,2 +1,2 @@
 # Project1_Room6
-GT Bootcamp Project #1
+Georgia Tech Data Analytics Bootcamp Project #1
