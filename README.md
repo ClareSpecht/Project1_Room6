@@ -16,10 +16,3 @@ Time and cost for full API services were the limitations we faced. The ones that
 
 Conclusion
 Most of the IPO’s were launched in 2021. The successful IPO’s were smaller companies with employees less than 100. The companies launched were mainly located in California and New York and finally our team recommends purchasing an Insurance company. 
-
-
-#Images has all data charts built do far:
- - Ipos kept vs dropped
- - Ipos launched per year
- - ipos location on google heat map
-
